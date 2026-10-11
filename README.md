@@ -1,6 +1,6 @@
 # Lendas-Legal
 
-Documentos legais de **Lendas** (`com.uaigames.lendas`) — publicados via GitHub Pages.
+Documentos legais de **Rollendary** (`com.uaigames.lendas`) — publicados via GitHub Pages.
 
 > ⚠️ **NÃO EDITE OS HTML DIRETAMENTE.** Este repositório é **gerado** por
 > `Python/legalkit/generate.py` do `NoGamingKit`. Edição manual some na próxima
